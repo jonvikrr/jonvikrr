@@ -1,26 +1,50 @@
-## Olá, me chamo João Victor e eu sou desenvolvedor de software 
+![João Victor Banner Image](./banner.png)
 
-<div align="center">
-  <a href="https://github.com/jvictort">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jvictort&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvictort&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h2>Hey! Fique à vontade 👋</h2>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Jvictort-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jvictort-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jvictort-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jvictort-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Jvictort-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jvictort-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jvictort-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-</div>
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jvictort.jvictort)](https://github.com/jvictort) [![GitHub followers](https://img.shields.io/github/followers/jvictort.svg?style=social&label=Follow)](https://github.com/jvictort?tab=followers)
 
-##
+Eu me chamo João Victor
+- <i>Técnico em Desenvolvimento de Sistemas: Etec Sales Gomes, concluído em 2022</i> 
+- <i>Tecnólogo em Análise e Desenvolvimento de Sistemas: Fatec José Crespo Gonzales, de 2023 até o presente </i>
+
+<h2>💻 Atualmente estou estudando</h2>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Jvictort-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jvictort-Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Jvictort-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Jvictort-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   
+   <h3>Outras tecnologias que domino</h3>
+   
+  <img align="center" alt="Jvictort-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jvictort-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Jvictort-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jvictort-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jvictort-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Jvictort-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+</div>
+
+<h2>👀 Status</h2>
+
+<div>  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvictort" alt="GitHub Stats" /> <br/><br/>
+</div>
+
+<h2>⚡ Sobre</h2>
+
+Desenvolvedor de Software apaixonado por programação, redes de computadores e segurança da informação. Além da parte técnica, gosto de ouvir, tocar e compor e encontrei na jardinagem minha terapia diária.
+ 
+ - Saiba mais sobre mim em: [https://jvictort.github.io/](https://jvictort.github.io/)
+
+<h2>📫 Contato:</h2>
+
 <div align="center">
-  <a href="https://www.facebook.com/joaovictor.teodoro.925" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jvictor_t/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jvteodorobrasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jvictor_t/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvictorteodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
