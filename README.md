@@ -36,7 +36,7 @@ Eu me chamo João Victor
 <div>  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvictort" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jvictort&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" alt="GitHub Stats" /> <br/><br/>
 </div>
 
 <h2>⚡ Sobre</h2>
