@@ -41,7 +41,7 @@ Eu me chamo João Victor
 
 <h2>⚡ Sobre</h2>
 
-Desenvolvedor de Software apaixonado por programação, redes de computadores e segurança da informação. Além da parte técnica, gosto de ouvir, tocar e compor e encontrei na jardinagem minha terapia diária.
+Desenvolvedor júnior apaixonado por programação, redes de computadores e segurança da informação. Além da parte técnica, gosto de ouvir, tocar e compor e encontrei na jardinagem minha terapia diária.
  
  - Saiba mais sobre mim em: [https://jvictort.github.io/](https://jvictort.github.io/)
 
