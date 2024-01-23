@@ -2,7 +2,7 @@
 
 <h2>Hey! Fique à vontade 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jvictort.jvictort)](https://github.com/jvictort) [![GitHub followers](https://img.shields.io/github/followers/jvictort.svg?style=social&label=Follow)](https://github.com/jvictort?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jvictor-sec.jvictor-sec)](https://github.com/jvictor-sec) [![GitHub followers](https://img.shields.io/github/followers/jvictor-sec.svg?style=social&label=Follow)](https://github.com/jvictor-sec?tab=followers)
 
 Eu me chamo João Victor
 - <i>Técnico em Desenvolvimento de Sistemas</i> 
