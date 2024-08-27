@@ -1,4 +1,4 @@
-![João Victor Banner Image](./light-banner.png)
+![João Victor Banner Image](./banner.png)
 
 <h2>Hey! Fique à vontade 👋</h2>
 
