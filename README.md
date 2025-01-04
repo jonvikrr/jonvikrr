@@ -6,10 +6,13 @@ My name is João Victor, but you can call me whatever you like. I work in Cybers
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-holloweyes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="the-holloweyes's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-holloweyes&theme=tokyonight&hide_border=true" alt="the-holloweyes's Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-holloweyes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="the-holloweyes's Top Languages" />
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 0 auto;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=the-holloweyes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="the-holloweyes's Stats" style="width: 43%; max-width: 400px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-holloweyes&theme=tokyonight&hide_border=true" alt="the-holloweyes's Streak" style="width: 45%; max-width: 400px;" />
+  </div>
+  <div style="grid-column: span 2; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-holloweyes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="the-holloweyes's Top Languages" style="width: 35%; max-width: 350px;" />
+  </div>
 </div>
 
